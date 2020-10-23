@@ -1,0 +1,25 @@
+h1 {
+font-size: 50px; 
+color: #4879CE;
+}
+
+h2 {
+font-size: 30px; 
+color: #CE7748;
+}
+
+.grande {
+    font-size: 60px;
+}
+
+.maiuscula {
+    text-transform: uppercase;
+}
+
+.grande.maiuscula{
+    text-shadow: 6px 6px 18px #CE7748;
+}            
+
+h1 span{
+    color: aqua;
+}
